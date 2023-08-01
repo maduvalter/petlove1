@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
 
 .cabecalho {
     background-color: rgb(255, 255, 255);
@@ -16,7 +19,7 @@ width:20%;
 
 }
 .cabecalho-lista-item{
-    display: inline-block;
+    display: inline;
     margin:0 16px;
 }
 .escola-imagem{
