@@ -22,9 +22,11 @@ width:20%;
     display: inline;
     margin:0 16px;
 }
+
 .escola-imagem{
     width: 25%;
 }
+
 .escola{
     background-image: linear-gradient(rgb(255, 255, 255),rgb(148, 83, 9));
     color: black;
@@ -34,13 +36,29 @@ width:20%;
     padding: 24px 0
 ;
 }
+
 .escola-div-conteudo{
     width: 35% ;
 }
+
 .escola-titulo{
     padding: 24px 0;
 }
+
 .estudante-imagem{
    width: 120px;
    display: inline;
+}
+
+.estudante-div{
+    text-align: center;
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns:  10% 10% 10% 10% 10% 10% 10% 10% ;
 }
